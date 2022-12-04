@@ -8,6 +8,7 @@ role name: CloudwatchAgentRole
 needed Policies: CloudWatchAgentServerPolicy, CloudWatchAgentAdminPolicy and 
 
 AmazonEC2RoleforSSM this role for accessing SSM store from Ec2.
+attach the role to the Ec2.
 
 first we can install cloudwatch agent
 # install the agent
