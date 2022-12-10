@@ -1,4 +1,4 @@
-here we are going to push application logs to cloudwatch logs woth the help of Cloudwatch agent
+here we are going to push application logs to cloudwatch logs with the help of Cloudwatch agent
 
 
 
